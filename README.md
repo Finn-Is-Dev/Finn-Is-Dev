@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile!
 
-Hello, my name is Finn, I'm a College Student from Sydney and I love programming and solving problem
+Hello, my name is Finn, I'm a College Student from Sydney and I love solving programming problem
 
 
 Language that I learn currently:
