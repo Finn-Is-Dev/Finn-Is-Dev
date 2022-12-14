@@ -1,6 +1,6 @@
 # My GitHub Profile
 
-Hi there! My name is [Your Name] and I'm a software developer with a passion for learning new programming languages. Currently, I'm focusing on the following languages:
+Hi there! My name is Finn and I'm a software developer with a passion for learning new programming languages. Currently, I'm focusing on the following languages:
 
 - C++ :cplusplus:
 - JavaScript :javascript:
