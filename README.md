@@ -1,7 +1,9 @@
 ### Welcome to my GitHub profile!
 
-I am a software developer with a passion for creating innovative and intuitive solutions. I am proficient in a variety of programming languages, including:
+Hello, my name is Finn, I'm a College Student from Sydney and I love programming and solving problem
 
+
+Language that I learn currently:
 
 C++
 - ![C++ icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
