@@ -1,18 +1,36 @@
-# My GitHub Profile
+### Welcome to my GitHub profile!
 
-Hi there! My name is Finn and I'm a software developer with a passion for learning new programming languages. Currently, I'm focusing on the following languages:
+I am a software developer with a passion for creating innovative and intuitive solutions. I am proficient in a variety of programming languages, including:
 
-- C++ :cplusplus:
-- JavaScript :javascript:
-- Python :snake:
-- Lua :lua:
-- C# :csharp:
-- C :c:
 
-I've been working as a developer for 1 years and have experience in Java Script
+C++
+- ![C++ icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 
-I don't have any open repository yet on my Github profile but I'll make one as soon I can!
+JavaScript
+- ![JavaScript icon](https://img.icons8.com/color/48/000000/javascript.png)
 
-If you'd like to connect with me, you can find me on Discord at [Typical Finney#1893](https://discordapp.com/). I'm always happy to chat and discuss programming or anything else that interests you.
 
-Thanks for visiting my profile!
+Python
+- ![Python icon](https://img.icons8.com/color/48/000000/python.png)
+
+C#
+- ![C# icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+
+C
+- ![C icon](https://img.icons8.com/color/48/000000/c-programming.png)
+
+I am always looking to learn new languages and expand my skillset.
+
+If you would like to collaborate or discuss potential projects, feel free to contact me on 
+
+Discord 
+
+![Discord icon](https://img.icons8.com/color/48/000000/discord-logo.png) 
+
+[Typical Finney#1893](https://discordapp.com/). 
+
+I am always open to new opportunities and challenges.
+
+Thank you for visiting my profile. I look forward to connecting with you!
+
+
